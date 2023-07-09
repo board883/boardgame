@@ -1,0 +1,8 @@
+#securities {
+	display: flex;
+	/*border: 10px solid #dddddd;*/
+}
+
+#players {
+	display: flex;
+}
